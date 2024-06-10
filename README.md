@@ -29,7 +29,7 @@ Este archivo define la clase Projectile, que maneja los proyectiles disparados p
 
 ## Características
 
-- **Personajes**: Controla al héroe y enfrenta diferentes tipos de enemigos.
+- **Personajes**: Controla la nave y enfrenta diferentes tipos de enemigos.
 - **Sistema de Combate**: Ataca a los enemigos y defiende tu nave.
 - **Objetos y Trampas**: Recolecta tesoros y armas, evita trampas.
 - **Proyectiles**: Dispara proyectiles para derrotar a tus enemigos.
