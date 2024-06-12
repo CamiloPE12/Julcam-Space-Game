@@ -4,7 +4,7 @@
 
 ## Descripción
 
-En este juego, controlas a un héroe que viaja a través del espacio, disparando proyectiles para destruir enemigos, esquivando trampas mortales y recolectando valiosos tesoros. El juego ofrece múltiples características, como un sistema de niveles progresivos, un inventario para gestionar tus recursos y enemigos con diversos tipos de ataques, proporcionando un desafío constante y emocionante.
+En este juego, controlas a una nave que viaja a través del espacio, disparando proyectiles para destruir enemigos, esquivando trampas mortales y recolectando valiosos tesoros. El juego ofrece múltiples características, como un sistema de niveles progresivos, un inventario para gestionar tus recursos y enemigos con diversos tipos de ataques, proporcionando un desafío constante y emocionante.
 
 ## Estructura del Proyecto
 character.py: Define las clases Character, Hero y Enemy.
