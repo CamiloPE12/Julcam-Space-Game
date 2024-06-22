@@ -1,0 +1,34 @@
+/* src/paginas/MasInformacion.css */
+
+/* Estilos para el contenedor principal */
+.mas-informacion-container {
+    max-width: 800px; /* Ancho máximo del contenido */
+    margin: 20px auto; /* Margen exterior para centrar el contenido */
+    padding: 20px; /* Relleno interior */
+    background-color: #0f1211; /* Color de fondo verde claro */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+  }
+  
+  /* Estilos para el encabezado h2 */
+  .mas-informacion-container h2 {
+    color: #fefcfc; /* Color del texto */
+    text-align: center; /* Centrar el texto */
+  }
+  
+  /* Estilos para los párrafos */
+  .mas-informacion-container p {
+    line-height: 1.6; /* Espaciado entre líneas */
+  }
+  
+  /* Estilos para las listas */
+  .mas-informacion-container ul {
+    margin-left: 20px; /* Sangría a la izquierda para las listas */
+  }
+  
+  /* Estilos para los elementos de lista */
+  .mas-informacion-container li {
+    margin-bottom: 8px; /* Espacio entre elementos de lista */
+  }
+  
+  

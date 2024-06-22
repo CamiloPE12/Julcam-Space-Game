@@ -1,0 +1,48 @@
+/* src/paginas/Contacto.css */
+
+.contacto-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #0f1211; /* Verde claro */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contacto-container h2 {
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  .descripcion {
+    margin-bottom: 20px;
+  }
+  
+  .descripcion p {
+    line-height: 1.6;
+  }
+  
+  .informacion-contacto {
+    margin-top: 20px;
+  }
+  
+  .informacion-contacto h3 {
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .informacion-contacto ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .informacion-contacto li {
+    margin-bottom: 8px;
+  }
+  
+  .informacion-contacto li strong {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
